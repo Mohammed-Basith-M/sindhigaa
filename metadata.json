@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield PCAP Analyzer",
+  "description": "Professional cybersecurity SOC application for real-time PCAP and PCAPNG traffic analysis, network flow extraction, rule-based threat detection, and evidence-driven remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
